@@ -72,6 +72,10 @@ const Navbar = () => {
        </li>))}
 
 
+       <a href="./Ujjawal_Resume.pdf" className='text-4xl px-4 py-4 cursor-pointer capitalize text-gray-400 ' download target="_blank" rel='noreferrer'>
+                    Resume
+                </a>
+
      </ul>
 )}
 
