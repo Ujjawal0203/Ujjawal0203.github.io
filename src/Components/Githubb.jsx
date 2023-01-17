@@ -24,7 +24,7 @@ const Github = () => {
           Ujjawal Kumar's contribution calendar
         </h4>
         <img
-          src="https://ghchart.rshah.org/Vivek-bhatt05"
+          src="https://ghchart.rshah.org/Ujjawal0203"
           alt="Ujjawal"
           style={{width:"100%" ,height:"auto", marginTop:"5vh", color:"red"}}
         />
