@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Contact = () => {
+  
   return (
     <div name='contact' style={{marginTop:'90px'}} className='w-full h-screen bg-gradient-to-b from-gray-800 to-black p-4 text-white'>
         <div className='flex flex-col justify-center p-4 max-w-screen-lg mx-auto h-full'>
