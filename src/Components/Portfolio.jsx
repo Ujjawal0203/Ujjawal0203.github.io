@@ -2,7 +2,7 @@ import React from 'react';
 import Fiverr from '../assests/Portfolio/Fiverr.png';
 import Lately from '../assests/Portfolio/Lately.png';
 import Jefit from "../assests/Portfolio/Jefit.png";
-
+import Yoox from "../assests/Portfolio/Yoox.png"
 
 const Portfolio = () => {
 
@@ -22,24 +22,32 @@ const Portfolio = () => {
             title:"Jefit.com",
             glink:"https://github.com/Ujjawal0203/aquatic-discussion-8005",
             nlink:"https://venerable-boba-d7e055.netlify.app/",
-            detail:"This is a clone of Coschedule website, it helps us organise our days accordingly and save out time and help us in time management.",
+            detail:"Jefit is a very famous fitness website on the internet, that can help people to plan their daily workout and also manage their diet plan. ",
             tech:"Tech Stack: HTML | CSS | JavaScript"
         },
         {
             id:3,
+            src: Yoox,
+            title:"Yoox.com",
+            glink:"https://github.com/saikhmirsat/Yoox.com-Clone",
+            nlink:"https://luminous-sprinkles-3af9e6.netlify.app/",
+            detail:"This is a clone of Yoox.com. It is an e-commerce website, they sells Clothes, Shoes and various beauty products. This is a collaborative project.",
+            tech:"Tech Stack: HTML | CSS | JavaScript | React"
+        },
+        {
+            id:4,
             src: Fiverr,
             title:"Fiverr.com",
             glink:"https://github.com/Ujjawal0203/minor-crowd-1344/tree/main/my-project",
             nlink:"https://inspiring-raindrop-9d2b46.netlify.app/",
             detail:"This is a clone of Coschedule website, it helps us organise our days accordingly and save out time and help us in time management.",
             tech:"Tech Stack: HTML | CSS | JavaScript | React"
-        },
-      
+        }
     ]
 
   return (
-    <div name='portfolio' className='bg-gradient-to-b from-black to-gray-800 w-full  text-white md:h-screen '>
-        <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
+    <div  style={{paddingTop:"200px"}} name='portfolio' className='bg-gradient-to-b from-black to-gray-800 w-full  text-white md:h-screen '>
+        <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full' >
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>Projects</p>
                 <p className='py-6'>Check out some of my work right here</p>
