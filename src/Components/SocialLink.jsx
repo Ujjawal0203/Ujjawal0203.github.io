@@ -40,7 +40,7 @@ const SocialLink = () => {
                Resume <BsFillPersonLinesFill size={30} />
             </>
             ),
-            href:"./Ujjawal_Kumar_Resume.pdf",
+            href:"./fw20_0043_Ujjawal-Kumar-Resume.pdf",
             download:true
         },
     ]
