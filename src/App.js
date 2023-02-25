@@ -18,7 +18,7 @@ function App() {
       <Github />
       <Contact />
 
-      <SocialLink />
+      {/* <SocialLink /> */}
     </div>
   );
 }
