@@ -26,7 +26,7 @@ const Github = () => {
         <img
           src="https://ghchart.rshah.org/Ujjawal0203"
           alt="Ujjawal"
-          style={{width:"100%" ,height:"auto", marginTop:"5vh", color:"red"}}
+          style={{width:"100%" ,height:"150px", marginTop:"5vh", color:"red"}}
         />
        
       </div>

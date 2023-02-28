@@ -3,6 +3,7 @@ import Fiverr from '../assests/Portfolio/Fiverr.png';
 import Lately from '../assests/Portfolio/Lately.png';
 import Jefit from "../assests/Portfolio/Jefit.png";
 import Yoox from "../assests/Portfolio/Yoox.png"
+import Trendy from "../assests/Portfolio/Trendy.png"
 
 const Portfolio = () => {
 
@@ -20,7 +21,7 @@ const Portfolio = () => {
             id:2,
             src: Jefit,
             title:"Jefit.com",
-            glink:"https://github.com/Ujjawal0203/aquatic-discussion-8005",
+            glink:"https://github.com/RajParmar03/Jefit_clone",
             nlink:"https://venerable-boba-d7e055.netlify.app/",
             detail:"Jefit is a very famous fitness website on the internet, that can help people to plan their daily workout and also manage their diet plan. ",
             tech:"Tech Stack: HTML | CSS | JavaScript"
@@ -36,6 +37,15 @@ const Portfolio = () => {
         },
         {
             id:4,
+            src: Trendy,
+            title:"Trendy.com",
+            glink:"https://github.com/kaushalragini/physical-push-7511",
+            nlink:"https://hilarious-conkies-eaedd3.netlify.app/",
+            detail:"With the trendiest, freshest, and most unique styles from across India and the world, Trendy-Fashion invites you to express your personal style fearlessly, and with a confidence and optimism that cannot be easily shaken.",
+            tech:"Tech Stack: HTML | CSS | JavaScript | React"
+        },
+        {
+            id:5,
             src: Fiverr,
             title:"Fiverr.com",
             glink:"https://github.com/Ujjawal0203/minor-crowd-1344/tree/main/my-project",
