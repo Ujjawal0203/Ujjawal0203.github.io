@@ -3,7 +3,7 @@ import React from 'react'
 const Github = () => {
   return (
   <section  className="github-st" id="github-" style={{marginBottom:"100px",marginTop:'40px',paddingLeft:'40px', backgroundColor:'black',color:'white'}}>
-<div id="github-stats" style={{paddingTop:"500px",paddingBottom:"50px"}} >
+<div id="github-stats" style={{paddingTop:"500px",paddingBottom:"100px"}} >
   <div className="container">
     <h1 style={{fontSize:'30px'}}>GitHub Status</h1>
     <div className="github-stats-list">
