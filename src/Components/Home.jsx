@@ -11,7 +11,7 @@ const Home = () => {
             id: 1,
             child: (
                 <>
-                    LinkedIn <FaLinkedin size={30} />
+                   <FaLinkedin size={30} />
                 </>
             ),
             href: 'https://www.linkedin.com/in/ujjawal-kumar-086691237/',
@@ -20,7 +20,7 @@ const Home = () => {
             id: 2,
             child: (
                 <>
-                    GitHub <FaGithub size={30} />
+                    <FaGithub size={30} />
                 </>
             ),
             href: 'https://github.com/Ujjawal0203'
@@ -29,7 +29,7 @@ const Home = () => {
             id: 3,
             child: (
                 <>
-                    Mail <HiOutlineMail size={30} />
+                   <HiOutlineMail size={30} />
                 </>
             ),
             href: 'mailto:ujjawal0203.jk@gmail.com'
@@ -51,9 +51,9 @@ const Home = () => {
                                 <MdKeyboardArrowRight size={30} />
                             </span>
                         </Link>
-                        <ul>
+                        <ul style={{display:"flex",marginLeft:"10px"}} >
                             {links.map(({ id, child, href, download }) => (
-                                <li key={id} className='flex justify-center w-40 h-14 px-4 bg-gray-500 ml-[-10px] '>
+                                <li key={id} className='flex justify-center w-18 h-14 px-4 bg-gray-500 ml-[-10px] '>
                                     <a href={href} className='flex justify-between items-center w-full text-white' download={download} target="_blank" rel='noreferrer'>
                                         {child}
                                     </a>
