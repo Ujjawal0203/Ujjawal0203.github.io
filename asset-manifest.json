@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.2afb58fa.css",
-    "main.js": "/static/js/main.8a1a2153.js",
+    "main.js": "/static/js/main.794e84d4.js",
     "static/media/Yoox.png": "/static/media/Yoox.c90af9d579bd5738fb20.png",
     "static/media/Trendy.png": "/static/media/Trendy.9713bc6780906f3b6cef.png",
+    "static/media/Shoeland.png": "/static/media/Shoeland.6667bff3cf98dd6c17e4.png",
     "static/media/myimagec.png": "/static/media/myimagec.90ae1004dcb6dd58c700.png",
     "static/media/Fiverr.png": "/static/media/Fiverr.85ce0525ee53c6ba25d1.png",
     "static/media/Jefit.png": "/static/media/Jefit.f97320362d001b5620fd.png",
@@ -16,10 +17,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.2afb58fa.css.map": "/static/css/main.2afb58fa.css.map",
-    "main.8a1a2153.js.map": "/static/js/main.8a1a2153.js.map"
+    "main.794e84d4.js.map": "/static/js/main.794e84d4.js.map"
   },
   "entrypoints": [
     "static/css/main.2afb58fa.css",
-    "static/js/main.8a1a2153.js"
+    "static/js/main.794e84d4.js"
   ]
 }
