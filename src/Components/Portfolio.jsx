@@ -2,8 +2,9 @@ import React from 'react';
 import Fiverr from '../assests/Portfolio/Fiverr.png';
 import Lately from '../assests/Portfolio/Lately.png';
 import Jefit from "../assests/Portfolio/Jefit.png";
-import Yoox from "../assests/Portfolio/Yoox.png"
-import Trendy from "../assests/Portfolio/Trendy.png"
+import Yoox from "../assests/Portfolio/Yoox.png";
+import Trendy from "../assests/Portfolio/Trendy.png";
+import Shoeland from "../assests/Portfolio/Shoeland.png";
 
 const Portfolio = () => {
 
@@ -52,6 +53,15 @@ const Portfolio = () => {
             nlink:"https://inspiring-raindrop-9d2b46.netlify.app/",
             detail:"This is a clone of Coschedule website, it helps us organise our days accordingly and save out time and help us in time management.",
             tech:"Tech Stack: HTML | CSS | JavaScript | React"
+        },
+        {
+            id:6,
+            src: Shoeland,
+            title:"Shoeland.com",
+            glink:"https://github.com/pallavijainy/scenic-wood-5639",
+            nlink:"https://shoe-land-hub.vercel.app/",
+            detail:"Shoeland is an e-commerce website which offers wide selection of stylish and comfortable footwear for men, women, and children.",
+            tech:"Tech Stack: HTML | CSS | JavaScript | React JS | Chakra UI | Express JS | MongoDB"
         }
     ]
 
