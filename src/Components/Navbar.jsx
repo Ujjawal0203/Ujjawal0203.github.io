@@ -58,7 +58,7 @@ const Navbar = () => {
             target="_blank"
             rel="noreferrer"
             onClick={()=> window.open(
-              "https://drive.google.com/file/d/1yLm8hJKpywLJFyYm7OJRrpvuNcA8v3sa/view?usp=sharing"
+              "https://drive.google.com/file/d/1i4WgKFeE-lAf0EKW7zTMpGFe6ZOa5a5h/view?usp=sharing"
             )}
           >
             Resume
