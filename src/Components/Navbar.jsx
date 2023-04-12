@@ -91,13 +91,13 @@ const Navbar = () => {
             </li>
           ))}
           <a
-            href="./fw20_0043_Ujjawal-Kumar-Resume.pdf"
+            href="./Ujjawal_Kumar_Resume.pdf"
             className="text-4xl px-4 py-4 cursor-pointer capitalize text-gray-400 "
             download
             target="_blank"
             rel="noreferrer"
             onClick={()=> window.open(
-              "https://drive.google.com/file/d/1aRiz0R5QoNejR6zGW5IIp5iuNeCnCWjB/view?usp=sharing"
+              "https://drive.google.com/file/d/1xo1NE2ELQ-ZjPE8kqrMt0SiWfNlev9ue/view?usp=sharing"
             )}
           >
             Resume
