@@ -52,13 +52,13 @@ const Navbar = () => {
             </li>
           ))}
           <a
-            href="./fw20_0043_Ujjawal_Kumar_Resume.pdf"
+            href="./Ujjawal_Kumar_Resume.pdf"
             className=" flex justify-between items-center w-full px-3 cursor-pointer font-medium capitalize text-gray-500 hover:scale-125 duration-200"
             download
             target="_blank"
             rel="noreferrer"
             onClick={()=> window.open(
-              "https://drive.google.com/file/d/1i4WgKFeE-lAf0EKW7zTMpGFe6ZOa5a5h/view?usp=sharing"
+              "https://drive.google.com/file/d/1xo1NE2ELQ-ZjPE8kqrMt0SiWfNlev9ue/view?usp=sharing"
             )}
           >
             Resume
